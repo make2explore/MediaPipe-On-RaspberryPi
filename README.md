@@ -7,7 +7,8 @@ Mediapipe offers open source, cross platform, customizable, machine learning sol
 In previous video tutorial, we have seen, how to install MediaPipe machine learning framework's Python Package on Raspberry Pi. In this video we will try to run some MediaPipe ML Solutions on Raspberry Pi
 
 Python codes are given above. 
-
+------------------------------------------------------------------------------------------------------
+</br>  
 📕 YouTube Video Links -  
 
 ▶️ [Tutorial] How to Install MediaPipe on Raspberry Pi - 🔗 https://youtu.be/mlwEJkrHBL8  
@@ -16,9 +17,9 @@ Python codes are given above.
 
 ▶️ [Tutorial] MediaPipe Machine Learning Solutions on Raspberry Pi - 🔗 https://youtu.be/9_Z08_bVzQo  
 
-
+-------------------------------------------------------------------------------------------------------
 🌐 Important Links
-</br> 
+</br>  
 📌 MediaPipe Official Website - 🔗 https://mediapipe.dev/  
 📌 MediaPipe GitHub Website - 🔗 https://google.github.io/mediapipe/  
 📌 Raspberry Pi OS Images - 🔗 https://www.raspberrypi.com/software/...  
