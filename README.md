@@ -14,6 +14,9 @@ Python codes are given above.
 
 ▶️ [Tutorial] Tune up your Raspberry Pi for Vision Based Projects - 🔗 https://youtu.be/00c2GTpRaU8  
 
+▶️ [Tutorial] MediaPipe Machine Learning Solutions on Raspberry Pi - 🔗 https://youtu.be/9_Z08_bVzQo  
+
+
 🌐 Important Links
 </br> 
 📌 MediaPipe Official Website - 🔗 https://mediapipe.dev/  
