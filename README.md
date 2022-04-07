@@ -1,5 +1,9 @@
 ## MediaPipe-On-RaspberryPi
 
+Mediapipe is a cross platform framework for, building, multimodal applied machine learning pipelines.  
+
+Mediapipe offers open source, cross platform, customizable, machine learning solutions for live, and, streaming media. 
+
 In previous video tutorial, we have seen, how to install MediaPipe machine learning framework's Python Package on Raspberry Pi. In this video we will try to run some MediaPipe ML Solutions on Raspberry Pi
 
 Python codes are given above. 
