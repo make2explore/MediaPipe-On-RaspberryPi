@@ -29,7 +29,8 @@ Python codes are given above.
 📌 Raspberry Pi OS Images - 🔗 https://www.raspberrypi.com/software/...  
 📌 MediaPipe Raspberry Pi Python Package - 🔗 https://pypi.org/project/mediapipe-rpi4/    
 
-📌 Building MediaPipe on Raspberry Pi OS for Raspberry Pi 3 / 4  
+✅ Building MediaPipe on Raspberry Pi OS for Raspberry Pi 3 / 4  
+  
 🔗 https://github.com/superuser789/MediaPipe-on-RaspberryPi
 
 ------------------------------------------------------------------------------------------  
